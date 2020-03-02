@@ -1,0 +1,33 @@
+input ProductInput {
+  name: String!
+  price: Float!
+  type: String!
+  stock: Int!
+  enabled: Boolean!
+  url: String!
+}
+
+input RegisterInput {
+  login: String!,
+  pwd: String!,
+  confPwd: String!,
+  firstName: String!,
+  lastName: String!
+}
+
+type Product {
+    id: ID!
+    name: String!
+    price: Float!
+    type: String!
+    stock: Int!
+    enabled: Boolean!
+    url: String!
+}
+
+type User {
+  id: ID!
+  login: String!
+  firstName: String!
+  lastName: String!
+}
