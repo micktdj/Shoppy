@@ -1,4 +1,4 @@
-# Test Project - Tordjman Mickael
+# Test Project to learn GraphQL - Tordjman Mickael
 # Take a look at https://testprojectmickael.netlify.com/
 ## Back-End
 - GraphQL Yoga
