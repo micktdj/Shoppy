@@ -1,4 +1,4 @@
-# Test Project to learn GraphQL - Tordjman Mickael
+# Test Project GraphQL - Tordjman Mickael
 ## Back-End
 - GraphQL Yoga
 - Express Session
